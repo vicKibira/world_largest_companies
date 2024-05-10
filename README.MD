@@ -1,4 +1,4 @@
-# Company Data Analysis Project
+# large companies in the world and their revenues
 
 This project started with scraping data from Wikipedia using Python. We then employed the following tools for various tasks: 
 
