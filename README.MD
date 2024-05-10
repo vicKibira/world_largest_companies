@@ -8,4 +8,4 @@ This project started with scraping data from Wikipedia using Python. We then emp
 - **Metabase**: Employed for visualizing and exploring the analyzed data through interactive dashboards.
 - **PySpark**: Used for big data processing and analysis.
 
-
+![Project Screenshot](https://raw.githubusercontent.com/vicKibira/world_largest_companies/main/Screenshot%20(18).png)
