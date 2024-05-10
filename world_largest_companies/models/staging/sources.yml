@@ -1,0 +1,8 @@
+version: 2.0
+
+sources:
+  - name: world_largest_companies
+    database: postgres
+    schema: public
+    tables:
+      - name: world_largest_companies
